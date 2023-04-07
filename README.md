@@ -1,6 +1,9 @@
 # Hi there, I'm Dhanush! 👋
 
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:dthirunavukkarasu@scu.edu)](mailto:dthirunavukkarasu@scu.edu)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dthirunavukkarasu@scu.edu)](mailto:dthirunavukkarasu@scu.edu)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-thirunavukkarasu/)
+[![Personal Website](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://dhanoosh.me)
+
 
 
 I'm a **Software Developer** with expertise in **Java, JavaScript, React, Node.js, AWS**. I'm also passionate about **Open Source Software Development** and always striving to learn new things. 
