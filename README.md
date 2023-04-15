@@ -6,7 +6,7 @@
 
 
 
-I'm a **Software Developer** with expertise in **Java, JavaScript, React, Node.js, AWS**. I'm also passionate about **Open Source Software Development** and always striving to learn new things. 
+I'm a **Software Developer** with expertise in **Java, JavaScript, AWS**. I'm also passionate about **Open Source Software Development** and always striving to learn new things. 
 
 💻 Currently, I'm expanding my knowledge in **Node.js and React**. My ultimate goal is to become a **Full Stack Developer**.
 
