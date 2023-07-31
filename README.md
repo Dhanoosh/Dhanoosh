@@ -8,7 +8,7 @@
 
 I'm a **Software Developer** with expertise in **Java, JavaScript, AWS**. I'm also passionate about **Open Source Software Development** and always striving to learn new things. 
 
-💻 Currently, I'm expanding my knowledge in **Node.js and React**. My ultimate goal is to become a **Full Stack Developer**.
+💻 Currently, I'm expanding my knowledge in **Python and Swift**. My ultimate goal is to become a **Full Stack Developer**.
 
 ## Skills
 
@@ -22,7 +22,7 @@ I'm a **Software Developer** with expertise in **Java, JavaScript, AWS**. I'm al
 
 ## Contact
 
-📧 Email: dthirunavukkarasu@scu.edu
+📧 Email: dhanushhearsyou@gmail.com
 
 Thank you for visiting my profile!
 
