@@ -1,6 +1,6 @@
 # Hi there, I'm Dhanush! 👋
 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dthirunavukkarasu@scu.edu)](mailto:dthirunavukkarasu@scu.edu)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dthirunavukkarasu@scu.edu)](mailto:dhanush.thirunav@outlook.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-thirunavukkarasu/)
 [![Personal Website](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://dhanoosh.me)
 
